@@ -1,2 +1,2 @@
-# nsq_demo
+# nsq demo
 fiddling with go and nsq
